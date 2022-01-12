@@ -12,7 +12,8 @@
   ライセンスキーを指定しなかった場合は試用版になり，ナ行とマ行がすべてヌと発声されます。
 
 ## 参考
+
 * [「AquesTalk-ESP32 Ver.2.0」を使う](http://blog-yama.a-quest.com/?eid=970195)
 * [AquesTalk-ESPを簡単に使うクラス(プログラム)](http://blog-yama.a-quest.com/?eid=970191)
-* [AquesTalk ESP32 使用ライセンス](https://store.a-quest.com/items/10524168)
+* [AquesTalk ESP32 使用ライセンス](https://store.a-quest.com/items/10524168)  
   税込1,980円。ライセンスはMACアドレスに紐づく形式になっている。
