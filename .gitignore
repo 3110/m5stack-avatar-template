@@ -5,3 +5,4 @@
 .vscode/ipch
 lib/AquesTalkTTS/aquestalk.h
 lib/AquesTalkTTS/libaquestalk.a
+data/aqdic_m.bin
